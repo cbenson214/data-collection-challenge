@@ -1,1 +1,2 @@
 # data-collection-challenge
+All script written by me, Christopher Benson. Script for the Mars News portion of the challenge (scraping titles and preview text) can be found in the "data-collection-challenge" directory as "[part_1_mars_news.ipynb]". Script for the Mars Weather portion of the challenge (scraping weather data and running analysis) can be found in the "data-collection-challenge" directory as "[part_2_mars_weather.ipynb]". Dataframe of the Mars Weather data saves to the "output" directory.
